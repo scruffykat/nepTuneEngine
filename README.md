@@ -40,3 +40,7 @@ func (pc *PlayerController) Update() {
 }
 
 ```
+
+```go
+player.AddComponent(PlayerController{})
+```
