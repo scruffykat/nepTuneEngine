@@ -29,10 +29,12 @@ type PlayerController struct {
     speed float64
 }
 
+// Runs once when component is first used
 func (pc *PlayerController) Start() {
     pc.speed = 12.0
 }
 
+// Runs every game update
 func (pc *PlayerController) Update() {
     DoSomething()
 }
