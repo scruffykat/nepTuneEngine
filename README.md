@@ -1,7 +1,7 @@
+<img src=".github/nepTuneEngine.svg" width=254 align="right">
+
 ![GitHub License](https://img.shields.io/github/license/scruffykat/nepTuneEngine)
 ![GitHub top language](https://img.shields.io/github/languages/top/scruffykat/nepTuneEngine)
-
-<img src=".github/nepTuneEngine.svg" width=254 align="right">
 
 # 🌑 nepTune Engine
 nepTune Engine is an experimental Go game-engine specializng in rhythm games. The name nepTune comes from the planet Neptune combined with the music term "Tune". How charming! :)
